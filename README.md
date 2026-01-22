@@ -3,7 +3,6 @@
  **IT Professional | Flutter & Firebase Developer | Fintech & Automation Enthusiast**
 
  Diploma in Information Technology – Masinde Muliro University of Science and Technology  
- Graduating: **December 2025**  
 
 ---
 
@@ -36,7 +35,6 @@
 -  [Email](mailto:brianvocaldo@gmail.com)  
 -  [+254 740 125 950](tel:+254740125950)  
 -  [GitHub](https://github.com/maritimkibet)  
--  (Add LinkedIn/Portfolio here if you have one)
 
 ---
 
