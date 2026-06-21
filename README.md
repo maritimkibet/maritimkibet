@@ -1,6 +1,6 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Brian%20Kibet%20Maritim&fontSize=54&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20East%20Africa&descAlignY=60&descSize=19" width="100%" /></div>
 
-<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=620&lines=Building+production+systems+for+East+Africa;Flutter+%7C+Python+%7C+FastAPI+%7C+AI+APIs;WhatsApp+SaaS+%7C+Fintech+%7C+Marketplaces;CS+%40+MMUST+%7C+Graduating+2026" alt="Typing SVG" /></div>
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=620&lines=Building+production+systems+for+East+Africa;Flutter+%7C+Python+%7C+FastAPI+%7C+AI+APIs;WhatsApp+SaaS+%7C+Fintech+%7C+Marketplaces;CS+%40+MMUST" alt="Typing SVG" /></div>
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 ## About Me
 
-I'm a final-year Computer Science student at **Masinde Muliro University of Science and Technology** (graduating 2026), operating as an independent full-stack engineer shipping production systems for East African markets.
+I'm a Computer Science student at **Masinde Muliro University of Science and Technology**, operating as an independent full-stack engineer shipping production systems for East African markets.
 
 - Approaching first-client deployment for **AutoAgent Kenya** — multi-tenant WhatsApp automation SaaS for hospitality & SMBs
 - Based in **Nairobi, Kenya** · Building for Africa
