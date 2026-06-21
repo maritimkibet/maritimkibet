@@ -13,7 +13,6 @@
 I'm a final-year Computer Science student at **Masinde Muliro University of Science and Technology** (graduating 2026), operating as an independent full-stack engineer shipping production systems for East African markets.
 
 - Approaching first-client deployment for **AutoAgent Kenya** — multi-tenant WhatsApp automation SaaS for hospitality & SMBs
-- Freelancing with **Join for Joy** (Dutch NGO) — Flutter curriculum app deployed across Kenya, Uganda, Zambia & Malawi
 - Based in **Nairobi, Kenya** · Building for Africa
 
 ---
